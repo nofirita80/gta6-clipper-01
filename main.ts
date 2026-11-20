@@ -8,6 +8,9 @@
 // video once it is published; this program only copies VIDEO.json from the
 // repository root to /output/VIDEO.json, where the house reads it.
 //
+// Published: https://www.youtube.com/shorts/ehOELwwnA2I — "GTA 6 Incredible"
+// (channel nofi rita), public since 2026-11-20.
+//
 // Local check (from the repository root):
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
