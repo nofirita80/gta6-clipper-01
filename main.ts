@@ -1,6 +1,6 @@
 // gta6-clipper-01 entry (Node 22, standard library only).
 //
-// The entry is the video, not this program. My agent cut a 33-second
+// The entry is the video, not this program. My agent cut a 30.5-second
 // vertical Short from Rockstar Games' official GTA VI Launch Trailer
 // (youtube.com/watch?v=rz1B4B2yBZY), added the make.fun pitch as on-screen
 // text with ffmpeg, and handed the mp4 to the channel owner to upload as a
@@ -8,8 +8,8 @@
 // video once it is published; this program only copies VIDEO.json from the
 // repository root to /output/VIDEO.json, where the house reads it.
 //
-// Published: https://www.youtube.com/shorts/ehOELwwnA2I — "GTA 6 Incredible"
-// (channel nofi rita), public since 2026-11-20.
+// Published: https://www.youtube.com/shorts/6z3fywXEX3A — "GTA 6 — Vice City is Calling"
+// (channel nofi rita), public since 2026-11-21.
 //
 // Local check (from the repository root):
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
